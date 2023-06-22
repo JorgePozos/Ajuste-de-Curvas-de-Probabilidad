@@ -1,5 +1,5 @@
 # -------------- Ajuste de probabilidad de reclamos de responsabilidad civil-----------------
-### Paqueter?as
+### Paqueterías
 library(MASS) #distr de proba
 library(actuar)#distr adicionales de proba
 library(fitdistrplus) #ajuste de curvas de proba
